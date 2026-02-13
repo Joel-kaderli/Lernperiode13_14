@@ -14,3 +14,9 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 - [ ] M241 abgaben machen und Moodel tests
 - [ ] Für das Moodul mit den multi user applikatinen datenbank mit sql verknüpfen und das UML digramm einfügen
 - [ ] Java buch weiterarbeiten mit array und container ausseinader setzten. 
+
+## Arbeitspakete 13.02.2025
+
+- [ ] Heute mache ich weiter im Java buch nochmals mit Arrays und frage Chatgpt nach aufgaben
+- [ ] Auch im Java buch werde Tbreads auseinader setzten wass das genau ist ebenfalls versuchen aufgaben dazu zumachen
+- [ ] M223 aufgaben weiterarbeiten, an den Test 
