@@ -7,3 +7,10 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 
 - [ ] M241 abgabe machen
 - [ ] Multi-user applikationen Modul weiterarbeiten bzw. nachholen da ich letzt woche im JS kurs war. 
+
+
+## Arbeitspakete 23.01.2025
+
+- [ ] M241 abgaben machen und Moodel tests
+- [ ] Für das Moodul mit den multi user applikatinen datenbank mit sql verknüpfen und das UML digramm einfügen
+- [ ] Java buch weiterarbeiten mit array und container ausseinader setzten. 
