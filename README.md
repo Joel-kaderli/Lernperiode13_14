@@ -19,4 +19,11 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 
 - [ ] Heute mache ich weiter im Java buch nochmals mit Arrays und frage Chatgpt nach aufgaben
 - [ ] Auch im Java buch werde Tbreads auseinader setzten wass das genau ist ebenfalls versuchen aufgaben dazu zumachen
-- [ ] M223 aufgaben weiterarbeiten, an den Test 
+- [ ] M223 aufgaben weiterarbeiten, an den Test
+
+
+## Arbeitspakete 20.02.2025
+
+- [ ] M223 vorbereitung für den Test am Montag, repetion Multiuserapplikationen
+- [ ] M241 ufträge über Marktforschung erledigen und Moodel Test machen
+      
