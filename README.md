@@ -22,8 +22,12 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 - [ ] M223 aufgaben weiterarbeiten, an den Test
 
 
+
 ## Arbeitspakete 20.02.2025
 
 - [ ] M223 vorbereitung für den Test am Montag, repetion Multiuserapplikationen
 - [ ] M241 ufträge über Marktforschung erledigen und Moodel Test machen
-      
+
+## Arbeitspakete 20.02.2025
+- [ ] M241 abschliessen Pitch erstellen, Nuztwertanasylse
+- [ ] Java weiter arbeiten
