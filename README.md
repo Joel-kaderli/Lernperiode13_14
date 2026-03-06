@@ -31,3 +31,7 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 ## Arbeitspakete 20.02.2025
 - [ ] M241 abschliessen Pitch erstellen, Nuztwertanasylse
 - [ ] Java weiter arbeiten
+
+## 06.03.2025
+- [ ] Modul 245 am Projektarbeiten, Jungschiplaner Machbarkeit, Risiken minimieren
+- [ ] Modul 245 Prototyp erstellen für den Jungschiplaner 
