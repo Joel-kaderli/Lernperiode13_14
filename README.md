@@ -34,4 +34,10 @@ Zurzeit stehe ich sehr gut da in der Informatik, dieses Semster habe ich 5.5 sch
 
 ## 06.03.2025
 - [ ] Modul 245 am Projektarbeiten, Jungschiplaner Machbarkeit, Risiken minimieren
-- [ ] Modul 245 Prototyp erstellen für den Jungschiplaner 
+- [ ] Modul 245 Prototyp erstellen für den Jungschiplaner
+
+## 13.03.2025
+- [ ] Modul 245 am Projektarbeiten, Jungschiplaner Machbarkeit, Risiken minimieren
+- [ ] Modul 245 Prototyp erstellen für den Jungschiplaner
+
+
